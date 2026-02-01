@@ -1,4 +1,7 @@
 # Healthcare Patient Risk Analysis & Insights
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-red)
 
 ##  Project Objective
 To analyze patient health data and identify key risk factors contributing to heart disease and diabetes using exploratory data analysis and risk scoring techniques.
@@ -40,6 +43,14 @@ The dataset contains patient health-related attributes such as:
 ##  Outcome
 The project provides insights into how multiple health factors contribute to increased patient risk and demonstrates how exploratory analysis and scoring logic can support healthcare risk assessment.
 
+##  Installation
+
+This project uses standard Python libraries. To run the notebook locally:
+
+- Python 3.x
+- Jupyter Notebook
+- pandas, numpy, matplotlib, seaborn
+
 ##  Future Scope
 - Apply machine learning models for predictive risk analysis  
 - Use real-world clinical datasets  
@@ -51,4 +62,10 @@ The project provides insights into how multiple health factors contribute to inc
 This project is part of my learning journey in **Healthcare Data Analysis and Clinical AI**, focusing on building strong foundations in healthcare-focused data science.
 
 This project was created as my first hands-on healthcare data analysis project to strengthen my understanding of patient risk factors and clinical data interpretation.
+
+👩‍⚕️ Author
+
+Dr.Sathvika Erpula
+BDS | CPC | Clinical AI Learner
+Healthcare Analytics & AI Enthusiast
 
