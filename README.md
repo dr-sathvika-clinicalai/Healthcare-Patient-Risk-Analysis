@@ -29,9 +29,12 @@ The dataset contains patient health-related attributes such as:
 ##  Project Workflow
 1. Data loading and inspection  
 2. Data cleaning and preprocessing  
-3. Exploratory data analysis using visualizations  
+3. Exploratory data analysis using visualizations
+   ![Risk Distribution](screenshots/risk_distribution.png)
 4. Analysis of key risk factors  
-5. Risk score calculation to categorize patients  
+5. Risk score calculation to categorize patients
+6. Model Evaluation
+   ![Confusion Matrix Heatmap](screenshots/confusion_matrix_heatmap.png)
 
 ##  Key Analysis Performed
 - Impact of age on patient risk
@@ -39,6 +42,8 @@ The dataset contains patient health-related attributes such as:
 - Effect of glucose and cholesterol levels
 - Influence of smoking habits on overall risk
 - Distribution of patient risk scores
+- ![Feature Importance](screenshots/feature_importance.png)
+
 
 ##  Outcome
 The project provides insights into how multiple health factors contribute to increased patient risk and demonstrates how exploratory analysis and scoring logic can support healthcare risk assessment.
